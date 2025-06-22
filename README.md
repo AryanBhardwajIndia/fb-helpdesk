@@ -1,4 +1,3 @@
-```md
 # Facebook Helpdesk Clone
 
 A modern web application for managing Facebook page connections, user registration, and login. Built using **React**, **TypeScript**, and **Vite**.
@@ -21,7 +20,6 @@ A modern web application for managing Facebook page connections, user registrati
 
 ## 📁 Folder Structure
 
-```
 
 my-app/
 ├── public/
@@ -39,7 +37,6 @@ my-app/
 ├── tsconfig.json
 └── vite.config.ts
 
-````
 
 ---
 
