@@ -4,7 +4,7 @@ A modern web application for managing Facebook page connections, user registrati
 
 ## 🌐 Live Demo
 
-[🔗 Live Preview](#) *(Add your deployed link here)*
+[🔗 Live Preview](#) https://fb-helpdesk-nine.vercel.app/
 
 ---
 
