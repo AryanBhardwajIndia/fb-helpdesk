@@ -76,8 +76,7 @@ Visit `http://localhost:5173` to see the app in action.
 ## 🔗 Connect with Me
 
 * GitHub: [@AryanBhardwajIndia](https://github.com/AryanBhardwajIndia)
-* LinkedIn: *(Add your profile link)*
-
+  
 ---
 
 ## 📄 License
